@@ -101,6 +101,7 @@ form button:hover {
   font-size: 1.6rem;
   display: inline-block;
   margin: 0;
+  cursor: pointer;
 }
 
 .rsvp-button a, .hotel-button a {
